@@ -8,6 +8,7 @@ Step4 : order object will be sent with number of bricks to buy and unique order 
 Step5 : Once the order created, on success ,we can generate URI(header Location) with order ID using URI Component builder
 Step6 : Customer orders of respective ID can be retrived using Get request and Order ID as RequestParam(query Param in URI)
 Step7 : All the Customer oders can be retrieved using Get request and using list type
+Step8 : Written JUnit Test cases using Mockito
 
 Validations:
  Using Range annotation added validatio for number of bricks as explained in coding
