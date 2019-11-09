@@ -15,6 +15,10 @@ Validations:
 Exceptions :
  Created Custom Exception handler to display appropriate messages
  
+URIs:
+Post : localhost:8080/createOrder
+Get: localhost:8080/getOrders , localhost:8080/getOrder?id=3
+
  Note: Expalined the program through comments in coding
  
  
